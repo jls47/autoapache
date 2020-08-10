@@ -1,0 +1,1 @@
+THis project will be designed for people who want to get apache configured in an ubuntu server as fast as possible, whether they're using a javascript framework, django, or otherwise.
